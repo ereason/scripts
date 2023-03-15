@@ -1,0 +1,7 @@
+require("george.plugins-setup")
+require("george.core.options")
+require("george.core.keymaps")
+require("george.core.colorscheme")
+require("george.plugins.nvim-tree")
+require("george.plugins.lualine")
+require("george.plugins.telescope")
